@@ -1,0 +1,15 @@
+.ligneMove{
+    position: fixed;
+    border: palevioletred;
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    color: palevioletred;
+}
+.block1{
+    position: relative;
+    top: 100px;
+    height: 100px;
+    width: 100px;
+    right: 100px;
+}
